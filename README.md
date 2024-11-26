@@ -12,7 +12,7 @@ Unit Testing PySpark Pipelines\
 Data Visualization and Impact\
 Data Pipeline Maintenance\
 KPIs and Experimentation\
-Data Quality Patterns\
+Data Quality Patterns
 
 ## Youtube Channel
 [Data with Zach] (https://www.youtube.com/@EcZachly_)
