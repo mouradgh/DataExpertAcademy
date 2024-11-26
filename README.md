@@ -15,7 +15,7 @@ KPIs and Experimentation\
 Data Quality Patterns
 
 ## Youtube Channel
-[Data with Zach] (https://www.youtube.com/@EcZachly_)
+[Data with Zach](https://www.youtube.com/@EcZachly_)
 
 ## Course Github repository
 [data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook)
